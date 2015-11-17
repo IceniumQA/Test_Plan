@@ -1,0 +1,45 @@
+{
+  "ProjectName": "SBBBB",
+  "ProjectGuid": "b1f2230c-5bcd-4341-ad7b-5eaa6b17d6c1",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.SBBBB",
+  "DisplayName": "SBBBB",
+  "Author": "",
+  "Description": "SBBBB",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{759e7564-6e7b-48c6-a06e-9fbf53f2c186}",
+  "WP8ProductID": "{4ec6f0a7-463a-4ec9-b295-b31593023299}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.SBBBB",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
